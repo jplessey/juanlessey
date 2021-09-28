@@ -1,3 +1,3 @@
 # My personal landing page
 
-Running as a GitHub Page: https://jplessey.github.io/me/
+Built using HTML, CSS and Bootstrap. Running as a GitHub Page: https://jplessey.github.io/me/
